@@ -1,0 +1,7 @@
+.hover-border:hover {
+	-fx-background-color: #CFCFCF; 
+}
+
+.pressed-menu:pressed{
+	-fx-background-color: #B8B8B8; 
+}
